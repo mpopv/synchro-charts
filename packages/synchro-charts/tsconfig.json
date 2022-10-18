@@ -20,7 +20,8 @@
   },
   "include": [
     "src",
-    "types/jsx.d.ts"
+    "types/jsx.d.ts",
+    "node_modules/d3-color/dist"
   ],
   "exclude": [
     "node_modules"
